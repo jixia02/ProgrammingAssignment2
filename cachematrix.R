@@ -41,7 +41,7 @@ cacheSolve <- function(x, ...) {
         
         # get the inverse
         data <- x$get()
-        m < solve(data,...)
+        m <- solve(data,...)
         
         # set the value of the inverse in the cache via the setin function
         x$setinv(m)
