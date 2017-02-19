@@ -1,5 +1,8 @@
-##  a pair of functions ( makeCacheMatrix and cacheSolve) cache the Inverse of a Matrix
+## Put comments here that give an overall description of what your
+## functions do
 
+### Write a short comment describing this function
+### a pair of functions ( makeCacheMatrix and cacheSolve) cache the Inverse of a Matrix
 
 ## makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse.
 ## return a list containing functions to
